@@ -2,6 +2,8 @@
   <br>
   <a href="https://github.com/kate-skorija/ToDoList-Authentication.Solution"><img src="ToDoList/Views/Shared/img/logo.jpg" alt="To Do List" width="200"></a>
   <br>
+  To Do List
+  <br>
   Authentication with Identity
   <br>
 </h1>
@@ -104,5 +106,5 @@ MIT
 > LinkedIn [kate-skorija](https://www.linkedin.com/kate-skorija) &nbsp;&middot;&nbsp;
 > GitHub [kate-skorija](https://github.com/kate-skorija) &nbsp;&middot;&nbsp;
 
-> LinkedIn [TeresaRosinski](https://www.linkedin.com/TeresaRosinski) &nbsp;&middot;&nbsp;
+> LinkedIn [TeresaRosinski](https://www.linkedin.com/in/teresarosinski/) &nbsp;&middot;&nbsp;
 > GitHub [TersaRosinski](https://github.com/TeresaRosinski) &nbsp;&middot;&nbsp;
